@@ -21,15 +21,6 @@
 [context.next.environment]
   HUGO_ENV = "next"
 
- [plugins.inputs]
-    baseUrl = "https://csdokun.netlify.app"
-    sitemapPath = "/sitemap.xml"
-    providers = [
-      "google",
-      "bing",
-      "yandex"
-    ]
-
 
 [dev]
   framework = "#custom"
