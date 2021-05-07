@@ -1,4 +1,4 @@
-baseurl = "https://csdokun.netlify.app/"
+baseurl = "https://cs.dokundigital.com/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
