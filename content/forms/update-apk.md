@@ -32,7 +32,7 @@ description : Update APK
 
   <button type="submit" class="btn btn-primary dknform">Kirim</button>
 </form>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"      
+<iframe name="hidden_iframe" id="hidden_iframe" style="display: none;"      
     onload="if(submitted) {window.location.href='/forms/sukses'}"></iframe> 
 <script type="text/javascript">var submitted=true;</script>
     
