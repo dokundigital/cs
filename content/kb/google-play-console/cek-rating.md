@@ -1,5 +1,5 @@
 ---
-title: 2. Cek Rating
+title: Cek Rating
 description: Cara mudah cek rating di Google Play Console.
 lead: Cara mudah cek rating di Google Play Console.
 date: 2021-05-07T10:23:24.000+07:00
@@ -7,6 +7,9 @@ lastmod: 2021-05-07T10:23:24.000+07:00
 images: []
 toc: false
 weight: "630"
+menu: 
+  kb:
+    parent: "Google Play Console"
 
 ---
 ##### 1. Buka <a href="http://play.google.com/console" target="_blank">Google Play Console</a>
