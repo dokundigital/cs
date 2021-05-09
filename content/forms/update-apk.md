@@ -2,8 +2,6 @@
 title: Form Update APK
 description : Update APK
 ---
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"      
-    onload="if(submitted) {window.location.href='/forms/sukses'}"></iframe> 
 
 <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScq0tj4XdC_3JnybHlE9OxI25XouFkzj8l4yYw2tPbmcUfP6w/formResponse" method="post" target="hidden_iframe" onsubmit="return validateForm();">
     
@@ -34,7 +32,8 @@ description : Update APK
 
   <button type="submit" class="btn btn-primary dknform">Kirim</button>
 </form>
-
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"      
+    onload="if(submitted) {window.location.href='/forms/sukses'}"></iframe> 
 <script type="text/javascript">var submitted=true;</script>
     
 <script type="text/javascript">
